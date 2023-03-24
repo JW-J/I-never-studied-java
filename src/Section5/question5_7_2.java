@@ -6,7 +6,7 @@ public class question5_7_2 {
     // A(0) B(9)
     // B(9) A(0)
     //------
-    //   9    9
+    //   9    9이
 
     public static void main(String[] args) {
         // 그냥 내가 푼 알고리즘.
