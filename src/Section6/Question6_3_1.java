@@ -15,4 +15,4 @@ public class Question6_3_1 {
         else
             return num * addfactorial(num, count-1); // count-1을 통해 제곱은 횟수를 하나씩 차감 한다.
     }
-}// main metds
+}// main metd

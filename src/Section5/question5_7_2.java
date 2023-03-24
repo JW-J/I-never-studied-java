@@ -27,4 +27,4 @@ public class question5_7_2 {
 //                    System.out.println("A:" + A + ", " + "B:" +B);
 //                }
 //            }
-//        }
+//        }//수정
