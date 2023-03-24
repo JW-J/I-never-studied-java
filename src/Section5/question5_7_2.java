@@ -6,7 +6,7 @@ public class question5_7_2 {
     // A(0) B(9)
     // B(9) A(0)
     //------
-    //   9    9이
+    //   9    9
 
     public static void main(String[] args) {
         // 그냥 내가 푼 알고리즘.
@@ -19,7 +19,7 @@ public class question5_7_2 {
                     System.out.println(A + "," + B);
             }
         }
-    }
+    }//
 }
 
 // 원래 문제의 알고리즘.
