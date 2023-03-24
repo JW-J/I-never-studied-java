@@ -12,7 +12,6 @@ public class question5_7_2 {
         // 그냥 내가 푼 알고리즘.
         int A = 0;
         int B = 0;
-
         for (A = 0; A < 10; A++) {
             for (B = 0; B < 10; B++) {
                 if (A + B == 9)
