@@ -19,7 +19,7 @@ public class question5_7_2 {
                     System.out.println(A + "," + B);
             }
         }
-    }//
+    }
 }
 
 // 원래 문제의 알고리즘.
