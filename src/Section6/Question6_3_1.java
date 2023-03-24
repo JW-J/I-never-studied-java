@@ -14,6 +14,5 @@ public class Question6_3_1 {
             return num; // count가 0인 경우 반복 인자를 반환해 곱해지도록 한다.
         else
             return num * addfactorial(num, count-1); // count-1을 통해 제곱은 횟수를 하나씩 차감 한다.
-
     }
 }

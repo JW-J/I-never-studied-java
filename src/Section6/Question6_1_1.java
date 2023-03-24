@@ -29,5 +29,4 @@ public class Question6_1_1 {
     public static void multiply(int a, int b){
         System.out.println(a + " * " + b + " = " + (a * b));
     }
-
 } // Main method

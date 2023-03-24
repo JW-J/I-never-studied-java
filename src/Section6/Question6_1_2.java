@@ -9,6 +9,5 @@ public class Question6_1_2 {
         double value ;
 
         System.out.println(Math.abs(a - b));
-
     }
 } // Main method //
