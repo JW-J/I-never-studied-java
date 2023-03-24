@@ -1,0 +1,32 @@
+
+for ( i n t i=0; i<10; i++)
+6.
+7.
+for (int j=0; j<10; j++)
+8. {
+9.
+if((∞10+1)+(1*10+1)==99)
+10.
+System. out. printIn(1 + ,"" + j); 11.
+12.
+
+
+
+        for(int i = 1; i <= 100; i++) {
+            if(isPrimeNumber(i))
+                System.out.println(i);
+        }
+
+    }
+
+    public static boolean isPrimeNumber(int num) {
+        if(num == 1)
+            return false;
+
+        for(int i = 2; i < num; i++) {
+            if(num % i == 0)
+                return false;
+        }
+
+        return true;
+    }
