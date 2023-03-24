@@ -19,8 +19,8 @@ public class question5_7_2 {
                     System.out.println(A + "," + B);
             }
         }
-    }//
-}
+    }
+}//
 
 // 원래 문제의 알고리즘.
 //        for (int A = 0; A < 10; A++) {

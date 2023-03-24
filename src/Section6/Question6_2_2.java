@@ -34,4 +34,4 @@ public class Question6_2_2 {
         }
         return true; // 나눠지지 않았다면 그것은 소수에 포함된다.
     }
-}
+}//

@@ -12,7 +12,7 @@ public class Question6_1_1 {
         divide(a,b);
         multiply(a,b);
 
-    }
+    }//
 
     public static void plus(int a, int b) {
         System.out.println(a + " + " + b + " = " + (a + b));

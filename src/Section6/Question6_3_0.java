@@ -10,4 +10,4 @@ public class Question6_3_0 {
         else
             return num * fast(num-1);
     }
-}
+}//

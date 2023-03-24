@@ -18,7 +18,7 @@ public class Question6_2_1 {
         System.out.println("원의 넓이 : " + area);
         System.out.println("원의 둘레 : " + round);
 
-    }
+    }//
 
     public static double addcircle(double num) { // 원의 넓이 계산
         double result = (num * num) * 3.14;
