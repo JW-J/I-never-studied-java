@@ -20,7 +20,6 @@ public class question5_7_2 {
         }
     }
 }
-
 // 원래 문제의 알고리즘.
 //        for (int A = 0; A < 10; A++) {
 //            for (int B = 0; B < 10; B++) {

@@ -17,7 +17,6 @@ public class question5_7_1 {
                     if (i == 4)         // i가 4면 즉 4단이라면 멈추고 output 이라 지정한 반복문을 빠져나가겠다는 의미
 //                    break output;
                         System.out.println(i + "x" + j + "=" + i * j);
-
                 }
         }
     }
