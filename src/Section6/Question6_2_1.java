@@ -29,4 +29,4 @@ public class Question6_2_1 {
     public static double addround(double num) { // 원의 둘레 계산
         return (num * 2) * 3.14;
     }
-}//main metd
+}//main metds
