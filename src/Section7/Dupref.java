@@ -1,6 +1,6 @@
 package Section7;
 
-public class Dupref {
+class Dupref {
 
     class BankAccount {
         int balance = 0;
