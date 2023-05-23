@@ -16,6 +16,7 @@ public class Question6_3_2 {
         // 43, 21, 10, 5, 2 그리고 위에서 1리턴.
         decimalToBinary(decimal / 2);
 
+
         // 1, 2, 5, 10, 21, 43 을 2로 나눠 나머지 값을 반환하여 출력한다. (메모리 스택[선입선출])
         // 1, 0, 1,  0,  1,  1 으로 반환한다.
         System.out.print(decimal % 2);
@@ -23,7 +24,7 @@ public class Question6_3_2 {
 
     // main 메서드이기 때문에 제일 먼저 실행한다. 잊지말자. main 메서드가 제일 먼저 실행한다.
     public static void main(String[] args) {
-        int decimal = 12;
+        int decimal = 43;
         System.out.print("십진수 " + decimal + "의 이진수: ");
         decimalToBinary(decimal);
     }
